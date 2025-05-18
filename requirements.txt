@@ -1,6 +1,8 @@
 streamlit
-torch
 transformers
 datasets
+pandas
 scikit-learn
+torch
+pyarrow
 tensorflow
